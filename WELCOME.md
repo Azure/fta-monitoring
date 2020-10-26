@@ -15,6 +15,7 @@ Please give us your feedback on https://aka.ms/ftafeedback
 |:-----																										| :----------
 | Introduction 																									| 		
 | [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)   													| Cloud management 
+| [Define Cloud Monitoring Requirements](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)   													| Cloud management 
 | [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)														| Inventory with Resource Graph
 | [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure resource changes with Azure Monitor
 | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
