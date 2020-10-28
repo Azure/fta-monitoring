@@ -7,7 +7,7 @@ This call will not be recorded due to the wide audience and to encourage questio
 
 **Slideless** No PowerPoint, we promise! As we update this content you will get the changes straight away.
 
-Please give us your feedback on https://aka.ms/ftafeedback
+Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 ## Topics that will be covered today
 
