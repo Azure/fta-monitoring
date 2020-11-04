@@ -1,6 +1,5 @@
 # Overview of Azure monitoring services and features
 
-
 # [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)
 
 * Audit control plane operations

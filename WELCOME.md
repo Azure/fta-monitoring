@@ -31,3 +31,5 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule
 | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor
 | [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)														| Network Monitoring with Network Watcher
+
+[Delivery summary and more links](SCRIPT.md)
