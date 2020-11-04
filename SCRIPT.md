@@ -1,23 +1,5 @@
-# [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)
+# Overview of Azure monitoring services and features
 
-* Resource exploration
-* Query at scale across a set of subscriptions to effectively govern Azure
-* Used by portal search, all resources, Azure Security Center, etc
-* Query resources with complex filtering, grouping, and sorting by resource properties
-* Explore resources based on governance requirements
-* Assess the impact of applying policies in a vast cloud environment
-* Detail changes made to resource properties (preview)
-* [Kusto Query Language Starter](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-cli)
-
-## Demo
-
-https://portal.azure.com/#blade/HubsExtension/ArgQueryBlade
-
-* **Example query 1** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | project name,type,location,sku --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
-* **Example query 2** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | summarize count() by type --> Chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
-* **Example query 3** resourcecontainers | where type == 'microsoft.resources/subscriptions'
-* All Resources
-* Azure Security Center Inventory
 
 # [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)
 
@@ -75,6 +57,27 @@ https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowse
 * Data Sources
 * Solutions / Workspace summary
 * KQL examples --> [Power BI](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi) / Excel
+
+# [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)
+
+* Resource exploration
+* Query at scale across a set of subscriptions to effectively govern Azure
+* Used by portal search, all resources, Azure Security Center, etc
+* Query resources with complex filtering, grouping, and sorting by resource properties
+* Explore resources based on governance requirements
+* Assess the impact of applying policies in a vast cloud environment
+* Detail changes made to resource properties (preview)
+* [Kusto Query Language Starter](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-cli)
+
+## Demo
+
+https://portal.azure.com/#blade/HubsExtension/ArgQueryBlade
+
+* **Example query 1** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | project name,type,location,sku --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
+* **Example query 2** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | summarize count() by type --> Chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
+* **Example query 3** resourcecontainers | where type == 'microsoft.resources/subscriptions'
+* All Resources
+* Azure Security Center Inventory
 
 # [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)
 

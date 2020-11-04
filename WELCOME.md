@@ -16,11 +16,12 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | Introduction 																									| 		
 | [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)   													| Cloud management 
 | [Cloud Monitoring Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)   													| Define monitoring requirements 
-| [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)														| Inventory with Resource Graph
+| Overview of Azure monitoring services and features            |
 | [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor
 | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
 | [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview)													| Performance with Azure Monitor & Diagnostics Extension
 | [Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs)															| Health & Diagnostics with Azure Monitor
+| [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)														| Inventory with Resource Graph
 | [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)																	| Availability with Azure Monitor
 | [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)													| Application Performance Monitoring with Azure Monitor
 | [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)															| Visualise with Azure Monitor
