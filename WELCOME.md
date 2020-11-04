@@ -17,7 +17,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)   													| Cloud management 
 | [Cloud Monitoring Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)   													| Define monitoring requirements 
 | [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)														| Inventory with Resource Graph
-| [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure resource changes with Azure Monitor
+| [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor
 | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
 | [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview)													| Performance with Azure Monitor & Diagnostics Extension
 | [Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs)															| Health & Diagnostics with Azure Monitor
@@ -26,7 +26,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)															| Visualise with Azure Monitor
 | [Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)															| Visualise with Azure Monitor
 | [Power BI / Excel](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi)															| Visualise with Power BI or Excel
-| [Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards
-| [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-autoscale-performance-schedule)												| Autoscale Azure resources based on performance data or a schedule
+| [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards
+| [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule
 | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor
 | [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)														| Network Monitoring with Network Watcher
