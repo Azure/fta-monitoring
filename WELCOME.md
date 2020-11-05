@@ -13,9 +13,8 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 | Name																										| Description  
 |:-----																										| :----------
-| Introduction 																									| 		
+| Introductions 																									| 		
 | [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)   													| Cloud management 
-| [Cloud Monitoring Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)   													| Define monitoring requirements 
 | Overview of Azure monitoring services and features            |
 | [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor
 | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
