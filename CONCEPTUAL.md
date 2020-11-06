@@ -1,3 +1,5 @@
+#### [home](WELCOME.md)
+
 # Conceptual overview
 
 ![Azure Monitor Fundamental Data Types 1/3](/PNG/FUNDAMENTAL-DATATYPES1.png) 
