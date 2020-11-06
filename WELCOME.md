@@ -33,4 +33,4 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 [Delivery walkthrough, more links, and tips...](WALKTHROUGH.md)
 
-[Web and Data Monitoring Example](SAMPLE.md)
+[Web and Data monitoring example](SAMPLE.md)
