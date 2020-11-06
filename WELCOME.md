@@ -14,10 +14,10 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | Topic    | Feature																										| Description  
 |:-----																										| :----------    | :--------
 | Introductions 																									| 		
-| [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/){:target="_blank"}   		|											| Cloud management 
-| Conceptual overview    |  [Azure Monitor Fundamental Data Types 1/3](FUNDAMENTAL-DATATYPES1.png)          |    |
-|    | [Azure Monitor Fundamental Data Types 2/3](FUNDAMENTAL-DATATYPES2.png)   |    |
-|    | [Azure Monitor Fundamental Data Types 3/3](FUNDAMENTAL-DATATYPES3.png)   |    |
+| [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Cloud management 
+| Conceptual overview    |  ![Azure Monitor Fundamental Data Types 1/3](FUNDAMENTAL-DATATYPES1.png)          |    |
+|    | ![Azure Monitor Fundamental Data Types 2/3](FUNDAMENTAL-DATATYPES2.png)   |    |
+|    | ![Azure Monitor Fundamental Data Types 3/3](FUNDAMENTAL-DATATYPES3.png)   |    |
 | [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor
 |    | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
 |    | [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview)													| Performance with Azure Monitor & Diagnostics Extension
@@ -34,5 +34,3 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 |    | [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)														| Network Monitoring with Network Watcher
 
 [Delivery summary and more links...](WALKTHROUGH.md)
-
-<a href="http://stackoverflow.com" :target="_blank">Go</a>
