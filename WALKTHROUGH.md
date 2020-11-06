@@ -1,3 +1,5 @@
+#### [home](WELCOME.md)
+
 # Conceptual overview
 
 # [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)
