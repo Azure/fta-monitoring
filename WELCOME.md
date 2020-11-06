@@ -11,13 +11,11 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 ## Topics that will be covered today
 
-| Topic    | Feature																										| Description  
+| Name    | Feature																										| Description  
 |:-----																										| :----------    | :--------
 | Introductions 																									| 		
 | [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Cloud management 
-| Conceptual overview    |  ![Azure Monitor Fundamental Data Types 1/3](FUNDAMENTAL-DATATYPES1.png)          |    |
-|    | ![Azure Monitor Fundamental Data Types 2/3](FUNDAMENTAL-DATATYPES2.png)   |    |
-|    | ![Azure Monitor Fundamental Data Types 3/3](FUNDAMENTAL-DATATYPES3.png)   |    |
+| [Conceptual overview](CONCEPTUAL.md)      |      |    |
 | [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor
 |    | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
 |    | [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview)													| Performance with Azure Monitor & Diagnostics Extension
