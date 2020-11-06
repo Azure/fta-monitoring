@@ -11,7 +11,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 ## Agenda
 
-| Name    | Feature																										| Description  
+| Topic    | Feature																										| Description  
 |:-----																										| :----------    | :--------
 | Cloud Adoption Framework </br> [Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Recommendations, guidance and tools for cloud monitoring strategy and implementation.
 | [Conceptual Overview](CONCEPTUAL.md)      |      |    |
