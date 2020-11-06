@@ -31,4 +31,4 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor
 | [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)														| Network Monitoring with Network Watcher
 
-[Delivery summary and more links...](SCRIPT.md)
+[Delivery summary and more links...](WALKTHROUGH.md)
