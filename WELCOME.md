@@ -9,12 +9,12 @@ This call will not be recorded due to the wide audience and to encourage questio
 
 Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
-## Topics that will be covered today
+## Agenda
 
 | Name    | Feature																										| Description  
 |:-----																										| :----------    | :--------
 | Introductions 																									| 		
-| [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Cloud management 
+| [Cloud Adoption Framework - Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Cloud management 
 | [Conceptual overview](CONCEPTUAL.md)      |      |    |
 | [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor
 |    | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor
@@ -28,7 +28,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 |    | [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards
 |    | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule
 |    | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor
-|  Other  | [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)														| Inventory with Resource Graph
-|    | [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)														| Network Monitoring with Network Watcher
+|  [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph (know your environment to monitor E2E)
+|  [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher
 
 [Delivery summary and more links...](WALKTHROUGH.md)
