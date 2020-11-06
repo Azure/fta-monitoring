@@ -13,7 +13,6 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 | Name    | Feature																										| Description  
 |:-----																										| :----------    | :--------
-| Introductions 																									| 		
 | Cloud Adoption Framework </br> [Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Recommendations, guidance and tools for cloud monitoring strategy and implementation.
 | [Conceptual Overview](CONCEPTUAL.md)      |      |    |
 | [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor.
