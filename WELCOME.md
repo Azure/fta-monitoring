@@ -12,7 +12,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 ## Topics that will be covered today
 
 | Topic    | Feature																										| Description  
-|:-----																										| :----------
+|:-----																										| :----------    | :--------
 | Introductions 																									| 		
 | [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)   		|											| Cloud management 
 | Conceptual overview    |  [Azure Monitor Fundamental Data Types 1/3](FUNDAMENTAL-DATATYPES1.png)          |    |
