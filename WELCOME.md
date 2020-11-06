@@ -32,3 +32,5 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 |  [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher.
 
 [Delivery walkthrough, more links, and tips...](WALKTHROUGH.md)
+
+[[Optional] Web and Data Monitoring Example](SAMPLE.md)
