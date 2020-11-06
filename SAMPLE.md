@@ -6,7 +6,7 @@
 ## Monitoring
 ![Azure Monitor Fundamental Data Types 1/2](/PNG/todoapp_webapp_data_monitoring.png) 
 
-### App Services Web Application Monitoring
+### Web App Monitoring
 ![Azure Monitor Fundamental Data Types 1/2](/PNG/todoapp-webapp_monitoring.png) 
 
 ### Data Monitoring
