@@ -14,7 +14,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | Topic    | Feature																										| Description  
 |:-----																										| :----------    | :--------
 | Introductions 																									| 		
-| [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)   		|											| Cloud management 
+| [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/){:target="_blank"}   		|											| Cloud management 
 | Conceptual overview    |  [Azure Monitor Fundamental Data Types 1/3](FUNDAMENTAL-DATATYPES1.png)          |    |
 |    | [Azure Monitor Fundamental Data Types 2/3](FUNDAMENTAL-DATATYPES2.png)   |    |
 |    | [Azure Monitor Fundamental Data Types 3/3](FUNDAMENTAL-DATATYPES3.png)   |    |
