@@ -35,4 +35,4 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 [Delivery summary and more links...](WALKTHROUGH.md)
 
-<a href="bing.com" target="_blank">Bing/a>
+<a href="http://stackoverflow.com" target="_blank">Go</a>
