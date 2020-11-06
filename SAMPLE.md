@@ -1,6 +1,6 @@
 # Web and Data Monitoring Example
 
-## Application Architecture
+## Architecture
 ![Azure Monitor Fundamental Data Types 1/2](/PNG/todoapp_webapp_data.png) 
 
 ## Monitoring
