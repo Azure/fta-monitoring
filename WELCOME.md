@@ -28,7 +28,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 |    | [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards
 |    | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule
 |    | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor
-|  [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph (know your environment to monitor E2E)
+|  [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph </br> (know your environment in order to monitor E2E!)
 |  [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher
 
 [Delivery walkthrough and more links...](WALKTHROUGH.md)
