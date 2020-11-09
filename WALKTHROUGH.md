@@ -11,8 +11,6 @@
 
 ## Demo
 
-https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/activityLog
-
 * **Filter** Timespan: 90 days --> Subscriptions --> Event severity
 * **Quick Insights (last 24 hrs)**
 * **Errors** [Change history (Preview)](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log#view-change-history) --> Alert --> Action Group
@@ -31,8 +29,6 @@ https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowse
 
 ## Demo
 
-https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/metrics
-
 * **Chart 1 - DTU** Title: ToDo App DB - Avg [DTU](https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-dtu-single-databases#single-database-storage-sizes-and-compute-sizes) Limit --> Local Time: 30 days --> Scope: SQL Databases --> DTU Limit --> Area chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
 * **Chart 2 - DTU** Title: ToDo SQL Database - [DTU](https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-dtu-single-databases#single-database-storage-sizes-and-compute-sizes) Used --> Local Time: 30 days --> Scope: SQL Databases --> DTU Used --> Area chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
 * **Chart 1 - DWU** Title: ToDo Synapse Database - [DWU](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/what-is-a-data-warehouse-unit-dwu-cdwu) Limit --> Local Time: 30 days --> Scope: SQL Databases --> DTU Limit --> Area chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
@@ -49,8 +45,6 @@ https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowse
 * [Kusto Query Language](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/)
 
 ## Demo
-
-https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/logs
 
 * [Alert on emergency access account use using AAD Signin Diagnostic Logs](https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access#monitor-sign-in-and-audit-logs)
 * Diagnostics setting --> todoapp-rg --> coreDB
@@ -72,8 +66,6 @@ https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowse
 
 ## Demo
 
-https://portal.azure.com/#blade/HubsExtension/ArgQueryBlade
-
 * **Example query 1** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | project name,type,location,sku --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
 * **Example query 2** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | summarize count() by type --> Chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
 * **Example query 3** resourcecontainers | where type == 'microsoft.resources/subscriptions'
@@ -91,8 +83,6 @@ https://portal.azure.com/#blade/HubsExtension/ArgQueryBlade
 
 ## Demo
 
-https://portal.azure.com/?feature.customportal=false#blade/Microsoft_Azure_Health/AzureHealthBrowseBlade/serviceIssues
-
 * [Personalised health map for a critical application](https://docs.microsoft.com/en-us/azure/service-health/service-health-overview#pin-a-personalized-health-map-to-your-dashboard) --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/) 
 * [Service issue, Planned maintenance, Health advisory, Security advisory alerts](https://docs.microsoft.com/en-us/azure/service-health/alerts-activity-log-service-notifications-portal)
 
@@ -106,8 +96,6 @@ https://portal.azure.com/?feature.customportal=false#blade/Microsoft_Azure_Healt
 * Works for apps on a wide variety of platforms including .NET, Node.js, Java, and Python hosted on-premises, hybrid, or any public cloud 
 
 ## Demo based on [SmartHotel360 Reference Apps](https://github.com/microsoft/smarthotel360) (Application Insights Resource: CH-RetailAppAI)
-
-https://portal.azure.com/?feature.customportal=false&feature.eCSettingEnableAgentlessDepMapping=enabled&feature.allowAppInventory=true&feature.allowPhysicalAssessment=true&feature.importFeature=enabled&feature.WebAppsGoal=true&feature.enableExploreMoreTile=true#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/applicationsInsights
 
 * Overview | Application dashboard
 * Investigate | Application map
@@ -131,9 +119,9 @@ https://portal.azure.com/?feature.customportal=false&feature.eCSettingEnableAgen
 
 ## Demo
 
-* [VM](https://mportal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/virtualMachines) --> Performance: Groups, Workbooks | Service Map
-* [Storage](https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/storageInsights)
-* [Networks](https://ms.portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/networkInsights) --> Connection Monitor
+* [VM] --> Performance: Groups, Workbooks | Service Map
+* [Storage] --> Transactions | Capacity
+* [Networks] --> Connection Monitor
 
 # [Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
 
@@ -145,8 +133,6 @@ https://portal.azure.com/?feature.customportal=false&feature.eCSettingEnableAgen
 * Pinpoint network misconfigurations leading to failed connections
 
 ## Demo
-
-https://portal.azure.com/#blade/Microsoft_Azure_Network/NetworkWatcherMenuBlade/trafficAnalytics
 
 * Connection monitor (Preview) --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/)
 * Display Units Flows/Bytes/Packets
@@ -165,8 +151,6 @@ https://portal.azure.com/#blade/Microsoft_Azure_Network/NetworkWatcherMenuBlade/
 
 ## Demo
 
-https://ms.portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/workbooks
-
 * VM Key Metrics
 * [Tabs and Groups](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/Groups/Groups.md)
 
@@ -175,8 +159,6 @@ https://ms.portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBro
 * Alert on many signals including Metric values, Log search queries, Activity log events, Health of the underlying Azure platform, Tests for website availability, etc
 
 ## Demo
-
-https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/alertsV2
 
 * [Create an alert rule](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#create-an-alert-rule)
 * [Create an action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups)
@@ -193,8 +175,6 @@ https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowse
     * **Time-based** eg, trigger a webhook every 8am on Saturday in a given time zone
 
 ## Demo
-
-https://portal.azure.com/#blade/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/autoscale
 
 * [Autoscale quickstart](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-autoscale-performance-schedule)
 * VMSS Example
