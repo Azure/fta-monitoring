@@ -22,4 +22,14 @@
 ![Web2](/PNG/todoapp-webapp_monitoring_2_5.png) 
 
 ## Data Monitoring
-![Azure Monitor Fundamental Data Types 1/2](/PNG/todoapp-data_monitoring.png) 
+![Data1](/PNG/todoapp-data_monitoring_6.png) 
+
+[Data2](/PNG/todoapp_data_monitoring_7.png) 
+
+## Service and Resource Health Monitoring
+![SHRH](/PNG/todoapp-webapp_data_monitoring_SHRH_8.png) 
+
+## Cost Monitoring
+![Cost](/PNG/todoapp-webapp_data_monitoring_Cost_9.png) 
+
+* [Cost Management and Billing](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
