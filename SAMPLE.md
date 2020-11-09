@@ -16,6 +16,11 @@
 ## Monitoring
 ![Monitoring](/PNG/todoapp-webapp_data_monitoring_3.png) 
 
+## Inventory
+![Inventory](/PNG/todoapp-webapp_data_monitoring_Inventory_10.png) 
+
+*[Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/overview)
+
 ## Web App Monitoring
 ![Web1](/PNG/todoapp-webapp_monitoring_4.png) 
 
