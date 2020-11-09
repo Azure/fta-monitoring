@@ -6,8 +6,6 @@
 Application architecture without monitoring.
 ![Architecture](/PNG/todoapp-webapp_data_1.png) 
 
-[ToDo Application](https://jvairstodoapp.azurewebsites.net/)
-
 ## Application Criticality and Monitoring Requirements
 Assessing application criticality and defining requirements.
 * [Application Criticality](http://aka.ms/caf-manage)
