@@ -6,13 +6,13 @@
 Application architecture without monitoring.
 ![Architecture](/PNG/todoapp-webapp_data_1.png) 
 
-## Application Criticality and Monitoring Requirements
+## Application [Criticality](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/considerations/criticality) and Monitoring Requirements
 Define application criticality and monitoring requirements.
-### [Business Commitment](http://aka.ms/caf-manage)
+### [Business Commitment](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/considerations/commitment)
 
-* **Criticality:** Mission Critical
-* **Time/Value Impact:** $1m
-* **Commitment Level:** High Availability Commitment
+* [Criticality:](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/considerations/criticality) Mission Critical
+* [Time/Value Impact:](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/considerations/impact) $1m
+* [Commitment Level:](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/considerations/commitment) High Availability Commitment
 
 ### [Monitoring Requirements](http://aka.ms/monitoring-reqs)
 
