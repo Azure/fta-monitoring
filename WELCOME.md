@@ -29,6 +29,6 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 |  [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph. </br> Know your environment in order to monitor end-to-end!
 |  [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher.
 
-[Delivery walkthrough, more links, and tips...](WALKTHROUGH.md)
+[Putting it all together in a web and data monitoring e2e example](SAMPLE.md)
 
-[Putting it all together in a Web and data monitoring e2e example](SAMPLE.md)
+[Delivery walkthrough, more links, and tips...](WALKTHROUGH.md)
