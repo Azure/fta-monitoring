@@ -38,3 +38,6 @@
 ![Cost](/PNG/todoapp-webapp_data_monitoring_Cost_9.png) 
 
 * [Cost Management and Billing](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
+
+## Dashboard
+![Dashboard](/PNG/todoapp_dashboard.png) 
