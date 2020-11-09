@@ -17,7 +17,7 @@ Monitoring services and features added to application to meet requirements.
 ![Monitoring](/PNG/todoapp-webapp_data_monitoring_3.png) 
 
 ## Inventory
-Inventory of application componnets using Azure Resource Graph Explorer.
+Inventory of application components using Azure Resource Graph Explorer.
 * [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/overview)
 ![Inventory](/PNG/todoapp-webapp_data_monitoring_Inventory_10.png) 
 
