@@ -31,4 +31,4 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 [Delivery walkthrough, more links, and tips...](WALKTHROUGH.md)
 
-[Web and data monitoring e2e example](SAMPLE.md)
+[Putting it all together in a Web and data monitoring e2e example](SAMPLE.md)
