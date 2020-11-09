@@ -16,7 +16,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | Cloud Adoption Framework </br> [Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Recommendations, guidance and tools for cloud monitoring strategy and implementation.
 | [Conceptual Overview](CONCEPTUAL.md)      |      |    |
 | [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor.
-|    | [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics)													| Performance with Azure Monitor.
+|    | Metrics ([Platform](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics) and [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview))													| Performance with Azure Monitor.
 |    | [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview)													| Performance with Azure Monitor & Diagnostics Extension.
 |    | [Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs)															| Health & Diagnostics with Azure Monitor.
 |    | [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)																	| Availability with Azure Monitor.
