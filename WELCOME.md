@@ -22,7 +22,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 |    | [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)													| Application Performance Monitoring with Azure Monitor.
 |    | [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)															| Visualise with Azure Monitor.
 |    | [Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)															| Visualise with Azure Monitor.
-|    | [Power BI / Excel](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi)															| Visualise with Power BI or Excel.
+|    | [Power BI / Excel](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi)															| Visualise and/or Analyse with Power BI or Excel.
 |    | [Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards.
 |    | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule.
 |    | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor.
