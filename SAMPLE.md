@@ -1,6 +1,6 @@
 #### [home](WELCOME.md)
 
-# Web and Data Monitoring Example
+# Web and Data Monitoring E2E Example
 
 ## Architecture
 ![Architecture](/PNG/todoapp-webapp_data_1.png) 
