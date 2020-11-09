@@ -14,7 +14,6 @@
 * **Filter** Timespan: 90 days --> Subscriptions --> Event severity
 * **Quick Insights (last 24 hrs)**
 * **Errors** [Change history (Preview)](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log#view-change-history) --> Alert --> Action Group
-* **Filter** Resource group: datademos-rg --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
 * **Filter** Resource group: todoapp-rg --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
 * **Diagnostic Settings** --> Log Analytics Workspace / Storage Account / Event Hub
 
