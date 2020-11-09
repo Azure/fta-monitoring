@@ -71,7 +71,7 @@ All of these indicators should be capable of being filtered by a specified perio
   * The performance of individual web pages.
 
 ## Monitoring
-Monitoring services and features added to application to meet requirements.
+Application architecture with monitoring to meet requirements.
 ![Monitoring](/PNG/todoapp-webapp_data_monitoring_3.png) 
 
 ## Inventory
