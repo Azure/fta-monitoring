@@ -44,5 +44,5 @@ Note: Cost management is covered in the FTA Governance Live session.
 ![Cost](/PNG/todoapp-webapp_data_monitoring_Cost_9.png) 
 
 ## Dashboard
-Sample dashboard.
+Sample Azure portal dashboard.
 ![Dashboard](/PNG/todoapp_dashboard.png) 
