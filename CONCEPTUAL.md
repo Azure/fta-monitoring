@@ -5,8 +5,11 @@
 ## Azure Monitor Fundamental Data Types
 ![Azure Monitor Fundamental Data Types 1/2](/PNG/Concepts1.png) 
 
-## Metric = Time-series, Logs = Everything else
-![Azure Monitor Fundamental Data Types 2/2](/PNG/FUNDAMENTAL-DATATYPES2.png)
+## Metrics
+![Metrics](/PNG/Metrics.png)
+
+## Logs
+![Logs](/PNG/Logs.png)
 
 ## Onboarding Data Sources
 ![Onboarding](/PNG/ONBOARDING.png)
