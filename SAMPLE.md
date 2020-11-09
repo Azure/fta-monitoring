@@ -13,7 +13,7 @@ Assessing application criticality and defining requirements.
 ![Requirements](/PNG/todoapp-sample-business.png) 
 
 ## Monitoring
-Monitoring services and features to meet requirements added to application.
+Monitoring services and features added to application to meet requirements.
 ![Monitoring](/PNG/todoapp-webapp_data_monitoring_3.png) 
 
 ## Inventory
