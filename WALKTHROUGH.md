@@ -46,7 +46,6 @@
 
 ## Demo
 
-* [Alert on emergency access account use using AAD Signin Diagnostic Logs](https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access#monitor-sign-in-and-audit-logs)
 * Diagnostics setting --> todoapp-rg --> coreDB
 * Log Analytics Workspace --> Design, RBAC, Retention
 * Data Sources
