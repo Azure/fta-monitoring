@@ -8,7 +8,7 @@
 [ToDo Application](https://jvairstodoapp.azurewebsites.net/)
 
 ## Application Criticality and Monitoring Requirements
-![Requirements](/PNG/todoapp-sample-business_2.png) 
+![Requirements](/PNG/todoapp-sample-business.png) 
 
 * [Application Criticality](http://aka.ms/caf-manage)
 * [Monitoring Requirements](http://aka.ms/monitoring-reqs)
