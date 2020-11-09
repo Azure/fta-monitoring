@@ -8,8 +8,8 @@
 ## Application Criticality and Monitoring Requirements
 ![Requirements](/PNG/todoapp-sample-business_2.png) 
 
-[Application Criticality](http://aka.ms/caf-manage)
-[Monitoring Requirements](http://aka.ms/monitoring-reqs)
+* [Application Criticality](http://aka.ms/caf-manage)
+* [Monitoring Requirements](http://aka.ms/monitoring-reqs)
 
 ## Monitoring
 ![Monitoring](/PNG/todoapp-webapp_data_monitoring_3.png) 
