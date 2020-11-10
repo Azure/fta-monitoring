@@ -15,7 +15,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 | :-----  |:-----																										| :----------    | :--------
 |1.| Cloud Adoption Framework </br> [Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Recommendations, guidance and tools for cloud monitoring strategy and implementation.
 |2.| [Conceptual Overview](CONCEPTUAL.md)      |      |    |
-|3. | Portal Walkthrough </br> [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor.
+|3. |  [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/) </br> (Portal Walkthrough) | [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor.
 ||    | Metrics ([Platform](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics) and [Guest](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview))													| Performance with Azure Monitor & Diagnostics Extension.
 ||    | [Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs)															| Health & Diagnostics with Azure Monitor.
 ||    | [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)																	| Availability with Azure Monitor.
@@ -26,7 +26,7 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 ||    | [Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards.
 ||    | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule.
 ||    | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor.
-|4. |  Portal Walkthrough </br> [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph. </br> Know your environment in order to monitor end-to-end!
-|5. |  Portal Walkthrough </br> [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher.
+|4. |  [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/) </br> (Portal Walkthrough) | 														| Inventory with Resource Graph. </br> Know your environment in order to monitor end-to-end!
+|5. |  [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics) </br> (Portal Walkthrough)	  | 													| Network Monitoring with Network Watcher.
 
 [[Web and data monitoring end-to-end example](SAMPLE.md)]
