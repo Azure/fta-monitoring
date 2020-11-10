@@ -2,16 +2,6 @@
 
 # Conceptual Overview
 
-## Azure Monitor Fundamental Data Types
-![Azure Monitor Fundamental Data Types 1/2](/PNG/Concepts1.png) 
-
-## Metrics
-![Metrics](/PNG/Metrics.png)
-
-## Logs
-![Logs](/PNG/Logs.png)
-
-## Data Sources
 ![Onboarding](/PNG/Onboarding.png)
 
 * [Application Insights Platform Support](https://docs.microsoft.com/en-us/azure/azure-monitor/app/platforms)
