@@ -19,3 +19,5 @@
 * [New Azure Monitor Agent (preview)](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/azure-monitor-agent-overview?tabs=CLI1%2CCLI2)
 * [Diagnostic Settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 * [Designing your Azure Monitor Logs deployment](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/design-logs-deployment)
+
+#### [home](WELCOME.md)
