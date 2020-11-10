@@ -68,7 +68,7 @@ All of these indicators should be capable of being filtered by a specified perio
   * What devices are being used to access the system.
   * What percentage of users are returning to the system over time.
   * How system performance affect user behavior.
-  * The performance of individual web pages.
+  * The performance of individual web pages and its effect on user progression through the web site.
 
 ## Monitoring
 Application architecture with monitoring to meet requirements.
@@ -100,7 +100,7 @@ Cost monitoring extract.
 * [Cost Management and Billing](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
 Note: Cost management is covered in the FTA Governance Live session.
 ![Cost](/PNG/todoapp-webapp_data_monitoring_Cost_9.png) 
-
+nd its effect on 
 ## Dashboard
 Sample Azure portal dashboard.
 ![Dashboard](/PNG/todoapp_dashboard.png) 
