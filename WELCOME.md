@@ -11,22 +11,22 @@ Please give us your feedback on http://aka.ms/ftalive-mon-feedback
 
 ## Agenda
 
-| Topic    | Feature																										| Description  
-|:-----																										| :----------    | :--------
-| Cloud Adoption Framework </br> [Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Recommendations, guidance and tools for cloud monitoring strategy and implementation.
-| [Conceptual Overview](CONCEPTUAL.md)      |      |    |
-| [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor.
-|    | Metrics ([Platform](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics) and [Guest](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview))													| Performance with Azure Monitor & Diagnostics Extension.
-|    | [Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs)															| Health & Diagnostics with Azure Monitor.
-|    | [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)																	| Availability with Azure Monitor.
-|    | [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)													| Application Performance Monitoring with Azure Monitor.
-|    | [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)															| Visualise with Azure Monitor.
-|    | [Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)															| Visualise with Azure Monitor.
-|    | [Power BI / Excel](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi)															| Visualise and/or Analyse with Power BI or Excel.
-|    | [Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards.
-|    | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule.
-|    | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor.
-|  [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph. </br> Know your environment in order to monitor end-to-end!
-|  [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher.
+| | Topic    | Feature																										| Description  
+| :-----  |:-----																										| :----------    | :--------
+|1.| Cloud Adoption Framework </br> [Manage Phase](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)  		|											| Recommendations, guidance and tools for cloud monitoring strategy and implementation.
+|2.| [Conceptual Overview](CONCEPTUAL.md)      |      |    |
+|3. | Portal Walkthrough </br> [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)    | [Activity](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log)															| Audit Azure control plane operations with Azure Monitor.
+||    | Metrics ([Platform](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics) and [Guest](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview))													| Performance with Azure Monitor & Diagnostics Extension.
+||    | [Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs)															| Health & Diagnostics with Azure Monitor.
+||    | [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)																	| Availability with Azure Monitor.
+||    | [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)													| Application Performance Monitoring with Azure Monitor.
+||    | [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)															| Visualise with Azure Monitor.
+||    | [Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)															| Visualise with Azure Monitor.
+||    | [Power BI / Excel](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi)															| Visualise and/or Analyse with Power BI or Excel.
+||    | [Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)	| Visualise with Azure Portal Dashboards.
+||    | [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)												| Autoscale Azure resources based on performance data or a schedule.
+||    | [Alerting](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)															| Alerting with Azure Monitor.
+|4. |  Portal Walkthrough </br> [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)  | 														| Inventory with Resource Graph. </br> Know your environment in order to monitor end-to-end!
+|5. |  Portal Walkthrough </br> [Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)	  | 													| Network Monitoring with Network Watcher.
 
-[Putting it all together in a web and data monitoring e2e example](SAMPLE.md)
+[[Web and data monitoring end-to-end example](SAMPLE.md)]
