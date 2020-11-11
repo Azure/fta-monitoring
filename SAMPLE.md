@@ -1,6 +1,6 @@
 #### [home](WELCOME.md)
 
-# Web and Data Monitoring E2E Example
+# Web and Data Monitoring End-to-End Example
 
 ## Architecture
 Application architecture without monitoring.
