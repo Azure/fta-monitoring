@@ -80,15 +80,15 @@ Inventory of application components using Azure Resource Graph Explorer.
 ![Inventory](/PNG/todoapp-webapp_data_monitoring_Inventory_10.png) 
 
 ## Web App Monitoring
-Web App monitoring extract 1.
+Web App monitoring extract.
 ![Web1](/PNG/todoapp-webapp_monitoring_4.png) 
-Web App monitoring extract 2.
+Web App monitoring extract.
 ![Web2](/PNG/todoapp-webapp_monitoring_2_5.png) 
 
 ## Data Monitoring
-Data monitoring extract 1.
+Data monitoring extract.
 ![Data1](/PNG/todoapp-data_monitoring_6.png) 
-Data monitoring extract 2.
+Data monitoring extract.
 ![Data2](/PNG/todoapp_data_monitoring_7.png) 
 
 ## Service and Resource Health Monitoring
