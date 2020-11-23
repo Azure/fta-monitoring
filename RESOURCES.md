@@ -1,3 +1,5 @@
+#### [home](README.md)
+
 # Resources
 
 * Azure Monitor Updates: [https://aka.ms/azmonupdates](https://aka.ms/azmonupdates)
