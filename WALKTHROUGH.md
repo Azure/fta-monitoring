@@ -1,4 +1,4 @@
-#### [home](WELCOME.md)
+#### [home](README.md)
 
 # Walkthrough
 
@@ -196,3 +196,5 @@
 * Refer to [Workbook documentation and examples on Github](https://github.com/microsoft/Application-Insights-Workbooks/tree/master/Documentation)
 * [Use a webhook to configure health notifications for problem management systems](https://docs.microsoft.com/en-us/azure/service-health/service-health-alert-webhook-guide)
 * Use [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview) to increase or decrease resources based on a metric value crossing a threshold
+
+#### [home](README.md)
