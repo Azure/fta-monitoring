@@ -1,4 +1,4 @@
-#### [home](WELCOME.md)
+#### [home](README.md)
 
 # Web and Data Monitoring End-to-End Example
 
@@ -105,4 +105,4 @@ Note: Cost management is covered in the FTA Governance Live session.
 Sample Azure portal dashboard.
 ![Dashboard](/PNG/todoapp_dashboard.png) 
 
-#### [home](WELCOME.md)
+#### [home](README.md)
