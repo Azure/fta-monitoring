@@ -1,4 +1,4 @@
-#### [home](WELCOME.md)
+#### [home](README.md)
 
 # Conceptual Overview
 
@@ -10,4 +10,4 @@
   * [Diagnostic Settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 * [Designing your Azure Monitor Logs deployment](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/design-logs-deployment)
 
-#### [home](WELCOME.md)
+#### [home](README.md)
