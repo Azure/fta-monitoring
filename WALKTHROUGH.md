@@ -7,7 +7,7 @@
 * Audit control plane operations
 * Insight into subscription-level events
 * Examples include when a resource is modified or a VM is started
-* 90 days retention (send to Logs, Storage Account or Event Hub for longer retention)
+* 90 days retention out-of-the-box, with no configuration (send to Logs, Storage Account or Event Hub for longer retention)
 
 ## Demo
 
@@ -24,7 +24,7 @@
 * Ideal for fast detection of issues
 * Collected at regular intervals
 * Types include [Platform Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics), [Guest Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostics-extension-overview), [Custom Metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-store-custom-rest-api)
-* Up to 93 days retention (send to Logs, Storage Account or Event Hub for longer retention)
+* Up to 93 days retention out-of-the-box, with no configuration (send to Logs, Storage Account or Event Hub for longer retention)
 
 ## Demo
 
@@ -51,25 +51,6 @@
 * Solutions / Workspace summary
 * KQL examples --> [Power BI](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi) / Excel
 
-# [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)
-
-* Resource exploration
-* Query at scale across a set of subscriptions to effectively govern Azure
-* Used by portal search, all resources, Azure Security Center, etc
-* Query resources with complex filtering, grouping, and sorting by resource properties
-* Explore resources based on governance requirements
-* Assess the impact of applying policies in a vast cloud environment
-* Detail changes made to resource properties (preview)
-* [Kusto Query Language Starter](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-cli)
-
-## Demo
-
-* **Example query 1** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | project name,type,location,sku --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
-* **Example query 2** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | summarize count() by type --> Chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
-* **Example query 3** resourcecontainers | where type == 'microsoft.resources/subscriptions'
-* All Resources
-* Azure Security Center Inventory
-
 # [Service Health](https://docs.microsoft.com/en-us/azure/service-health/)
 
 * Service backend health
@@ -83,62 +64,6 @@
 
 * [Personalised health map for a critical application](https://docs.microsoft.com/en-us/azure/service-health/service-health-overview#pin-a-personalized-health-map-to-your-dashboard) --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/) 
 * [Service issue, Planned maintenance, Health advisory, Security advisory alerts](https://docs.microsoft.com/en-us/azure/service-health/alerts-activity-log-service-notifications-portal)
-
-# [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
-
-* Extensible Application Performance Management (APM) service for developers and DevOps professionals
-* Monitor live metrics
-* Automatically detects performance anomalies
-* Powerful analytics tools to help diagnose issues and understand what users do
-* Designed to help continuously improve performance and usability
-* Works for apps on a wide variety of platforms including .NET, Node.js, Java, and Python hosted on-premises, hybrid, or any public cloud 
-
-## Demo based on [SmartHotel360 Reference Apps](https://github.com/microsoft/smarthotel360) (Application Insights Resource: CH-RetailAppAI)
-
-* Overview | Application dashboard
-* Investigate | Application map
-* Investigate | Full stack performance diagnostics
-* Investigate | Failure detection & debugging
-* Investigate | Live stream
-* Investigate | Smart detection
-* Monitoring | Alert management
-* Usage | Users
-* Usage | User Flows
-* Usage | Retention
-* Monitoring | Workbooks
-* Overview | Monitor resource group
-
-# [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)
-
-* Customized monitoring experience for particular applications and services
-* Collect and analyze both logs and metrics
-* Implemented through workbooks (mostly)
-* Insights is replacing log analytics [solutions](https://docs.microsoft.com/en-us/azure/azure-monitor/monitor-reference#core-solutions)
-
-## Demo
-
-* [VM] --> Performance: Groups, Workbooks | Service Map
-* [Storage] --> Transactions | Capacity
-* [Networks] --> Connection Monitor
-
-# [Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
-
-* Visibility into user and application activity in cloud networks
-* Analyzes network security group (NSG) flow logs
-* Visualize network activity across Azure subscriptions and identify hot spots
-* Identify security threats with information such as open-ports, applications attempting internet access, and VMs connecting to rogue networks
-* Understand traffic flow patterns across Azure regions and the internet to optimize network deployments for performance and capacity
-* Pinpoint network misconfigurations leading to failed connections
-
-## Demo
-
-* Connection monitor (Preview) --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/)
-* Display Units Flows/Bytes/Packets
-* Log search query
-* Malicious flow search
-* View map --> Active regions --> Hover for Bytes in/outbound
-* View VNets
-* View subnets
 
 # [Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)
 
@@ -163,6 +88,42 @@
 * [Implement alert suppression for resource group scope with an action rule](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-action-rules?tabs=portal)
 * [Smart groups](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-smartgroups-overview)
 
+# [Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview)
+
+* Customized monitoring experience for particular applications and services
+* Collect and analyze both logs and metrics
+* Implemented through workbooks (mostly)
+* Insights is replacing log analytics [solutions](https://docs.microsoft.com/en-us/azure/azure-monitor/monitor-reference#core-solutions)
+
+## Demo
+
+* [VM] --> Performance: Groups, Workbooks | Service Map
+* [Storage] --> Transactions | Capacity
+* [Networks] --> Connection Monitor
+
+# [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+
+* Extensible Application Performance Management (APM) service for developers and DevOps professionals
+* Monitor live metrics
+* Automatically detects performance anomalies
+* Powerful analytics tools to help diagnose issues and understand what users do
+* Designed to help continuously improve performance and usability
+* Works for apps on a wide variety of platforms including .NET, Node.js, Java, and Python hosted on-premises, hybrid, or any public cloud 
+
+## Demo based on [SmartHotel360 Reference Apps](https://github.com/microsoft/smarthotel360) (Application Insights Resource: CH-RetailAppAI)
+
+* Overview | Application dashboard
+* Investigate | Application map
+* Investigate | Full stack performance diagnostics
+* Investigate | Failure detection & debugging
+* Investigate | Live stream
+* Investigate | Smart detection
+* Monitoring | Alert management
+* Usage | Users
+* Usage | User Flows
+* Usage | Retention
+* Monitoring | Workbooks
+* Overview | Monitor resource group
 # [Autoscale](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview)
 
 * Autoscale to right-size resources to handle application load
@@ -176,6 +137,44 @@
 
 * [Autoscale quickstart](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-autoscale-performance-schedule)
 * VMSS Example
+
+# [Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
+
+* Visibility into user and application activity in cloud networks
+* Analyzes network security group (NSG) flow logs
+* Visualize network activity across Azure subscriptions and identify hot spots
+* Identify security threats with information such as open-ports, applications attempting internet access, and VMs connecting to rogue networks
+* Understand traffic flow patterns across Azure regions and the internet to optimize network deployments for performance and capacity
+* Pinpoint network misconfigurations leading to failed connections
+
+## Demo
+
+* Connection monitor (Preview) --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/)
+* Display Units Flows/Bytes/Packets
+* Log search query
+* Malicious flow search
+* View map --> Active regions --> Hover for Bytes in/outbound
+* View VNets
+* View subnets
+
+# [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/)
+
+* Resource exploration
+* Query at scale across a set of subscriptions to effectively govern Azure
+* Used by portal search, all resources, Azure Security Center, etc
+* Query resources with complex filtering, grouping, and sorting by resource properties
+* Explore resources based on governance requirements
+* Assess the impact of applying policies in a vast cloud environment
+* Detail changes made to resource properties (preview)
+* [Kusto Query Language Starter](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-cli)
+
+## Demo
+
+* **Example query 1** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | project name,type,location,sku --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
+* **Example query 2** resources | where resourceGroup == 'todoapp-rg' or resourceGroup == 'datademos-rg' | summarize count() by type --> Chart --> Pin to [Azure Portal Dashboards](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards#:~:text=%20Create%20and%20share%20dashboards%20in%20the%20Azure,want%20to%20copy.%20In%20the%20page...%20More%20)
+* **Example query 3** resourcecontainers | where type == 'microsoft.resources/subscriptions'
+* All Resources
+* Azure Security Center Inventory
 
 # Tips
 
