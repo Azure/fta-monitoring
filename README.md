@@ -7,7 +7,7 @@ This call will not be recorded due to the wide audience and to encourage questio
 
 **Slideless** No PowerPoint, we promise! As we update this content (http://aka.ms/fta-monitoring) you will get the changes straight away.
 
-Please give us your feedback on https://aka.ms/ftalive-feedback![image](https://user-images.githubusercontent.com/36653836/129643210-bf2856f1-3c19-4d85-bbf2-c8e156a2dd0f.png)
+Please give us your feedback on https://aka.ms/ftalive-feedback
 
 ## Agenda
 
