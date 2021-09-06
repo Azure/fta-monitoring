@@ -18,7 +18,7 @@ We took some time to explore constructing KQL queries, herewith more about the b
 List a table
 
         AzureActivity
-| count 
+        | count 
 
 See what is in the table
 
