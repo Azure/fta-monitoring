@@ -10,6 +10,7 @@ We spoke about [Azure Security Center and Azure Defender](https://docs.microsoft
     *   Tutorial: [Create and manage policies to enforce compliance](https://docs.microsoft.com/en-gb/azure/governance/policy/tutorials/create-and-manage)
     *   Tutorial: [Working with Security Policies](https://docs.microsoft.com/en-gb/azure/security-center/tutorial-security-policy)
     *   [Azure security policies monitored by Security Center](https://docs.microsoft.com/en-gb/azure/security-center/security-center-policy-definitions)
+    * [Excepting your resources and recommendations from your secure score](https://docs.microsoft.com/en-us/azure/security-center/exempt-resource)
 *   We spoke about your [Secure Score and how to improve it](https://docs.microsoft.com/en-us/azure/security-center/security-center-secure-score).
     * [Security Recommendations Reference Guide](https://docs.microsoft.com/en-us/azure/security-center/recommendations-reference)
 *   We mentioned the capabilities of [Azure Defender for Servers](https://docs.microsoft.com/en-us/azure/security-center/defender-for-servers-introduction), you can read more about them here:
