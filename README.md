@@ -1,3 +1,7 @@
+# Important
+
+This project is no longer being maintained and is being archived as a result.
+
 # Welcome to the FastTrack for Azure Monitoring Call
 ## We will start 1-2 minutes after the scheduled time to accommodate those still connecting
 
